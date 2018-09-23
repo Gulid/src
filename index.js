@@ -6,3 +6,4 @@ function getFar(a) {
 }
 var result = getFar(cel);
 alert(cel + " °C is " + result + '°F');
+//console.log()
